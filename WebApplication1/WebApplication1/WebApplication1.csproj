@@ -107,6 +107,7 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\css\bootstrap.min.css" />
     <Content Include="assets\css\fade.css" />
     <Content Include="assets\css\styles.css" />
     <Content Include="assets\images\bg.png" />
@@ -157,7 +158,7 @@
     <Content Include="assets\plugins\jquery-rss\lib\jquery-1.6.4.min.js" />
     <Content Include="assets\plugins\jquery-rss\spec\jquery.rss.spec.js" />
     <Content Include="assets\plugins\jquery-rss\src\jquery.rss.js" />
-    <Content Include="projects.aspx" />
+    <Content Include="Portfolio.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -250,6 +251,7 @@
     <Content Include="assets\plugins\jquery-rss\lib\Icon_" />
     <Content Include="assets\plugins\jquery-rss\spec\Icon_" />
     <Content Include="assets\plugins\jquery-rss\src\Icon_" />
+    <None Include="Properties\PublishProfiles\avneetsingh.ca - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -280,7 +282,7 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="index.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Site.Master" />
@@ -303,12 +305,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
-    <Compile Include="projects.aspx.cs">
-      <DependentUpon>projects.aspx</DependentUpon>
+    <Compile Include="Portfolio.aspx.cs">
+      <DependentUpon>Portfolio.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="projects.aspx.designer.cs">
-      <DependentUpon>projects.aspx</DependentUpon>
+    <Compile Include="Portfolio.aspx.designer.cs">
+      <DependentUpon>Portfolio.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Contact.aspx.cs">
@@ -318,12 +320,12 @@
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
-    <Compile Include="index.aspx.cs">
-      <DependentUpon>index.aspx</DependentUpon>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="index.aspx.designer.cs">
-      <DependentUpon>index.aspx</DependentUpon>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
