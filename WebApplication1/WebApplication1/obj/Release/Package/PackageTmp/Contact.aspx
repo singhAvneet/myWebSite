@@ -20,15 +20,7 @@
           </button>
           <a href="#" class="navbar-brand"></a>
         </div>
-        <div class="navbar-collapse collapse" id="navbar">
-          <ul class="nav navbar-nav">
-            <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
-            <li><a href="projects.html"><i class="fa fa-code"></i> Projects</a></li>
-            <li><a href="github.html"><i class="fa fa-github"></i> GitHub</a></li>
-            <li><a href="resume.html"><i class="fa fa-list-alt"></i> Resume</a></li>
-            <li><a href="contact.html"><i class="fa fa-map-marker"></i> Contact Me</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
+    
       </div>
     </nav>
     <!-- ******HEADER****** --> 
@@ -102,16 +94,16 @@ Thanks for contacting us, we will get back to you shortly.</div>
                     <div class="col-md-6 contact-info">
                                 	<h3 class="section-title main-heading">Contact Info</h3>
                                        <ul class="contact-info-list">
-                                            <li>Address : <span>105 John Tabor Trail, Toronto</span></li>
-                                            <li>Phone : <span>+1 (416) 786 2998</span> </li>
-                                            <li>Email : <span>bir.virk90@gmail.com</span> </li>
-                                            <li>Skype : <span>Sharnbir</span> </li>
+                                            <li>Address : <span>Apt#301, 915 Midland Ave, ON, Canada</span></li>
+                                            <li>Phone : <span>+1 (647) 287 3084 </span> </li>
+                                            <li>Email : <span>avneet_kochhar0173@hotmail.com</span> </li>
+                                            <li>Skype : <span>avneet_kochhar0173</span> </li>
                                         </ul>
                                         <div class="social-icons">
                                             <a href="https://www.facebook.com/JattSaabOnline" title="Gursharnbir Singh - Facebook" target="_blank"><i class="fa fa-facebook"></i> </a>
-                            <a href="https://github.com/gvirk/" title="Gursharnbir Singh - GitHub" target="_blank"><i class="fa fa-github"></i> </a>
-                            <a href="https://www.linkedin.com/in/gursharnbir" title="Gursharnbir Singh - Linkedin" target="_blank"><i class="fa fa-linkedin"></i> </a>
-                            <a href="https://plus.google.com/u/0/+GursharnbirVirk" title="Gursharnbir Singh - GooglePlus" target="_blank"><i class="fa fa-google-plus"></i> </a>
+                                            <a href="https://github.com/singhAvneet" title="Gursharnbir Singh - GitHub" target="_blank"><i class="fa fa-github"></i> </a>
+                                            <a href="https://ca.linkedin.com/in/avneet-singh-a2a700a1" title="Avneet Singh - Linkedin" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                                            <a  title="Avneet Singh - GooglePlus" target="_blank"><i class="fa fa-google-plus"></i> </a>
                                         </div>
                                 </div>
                                 <div class="clear"></div>

@@ -16,9 +16,10 @@ namespace WebApplication1
         protected string AlternateView { get; private set; }
 
         protected string SwitchUrl { get; private set; }
-
+        /*
         protected void Page_Load(object sender, EventArgs e)
         {
+           
             // Determine current view
             var isMobile = WebFormsFriendlyUrlResolver.IsMobileView(new HttpContextWrapper(Context));
             CurrentView = isMobile ? "Mobile" : "Desktop";
@@ -38,6 +39,8 @@ namespace WebApplication1
             var url = GetRouteUrl(switchViewRouteName, new { view = AlternateView, __FriendlyUrls_SwitchViews = true });
             url += "?ReturnUrl=" + HttpUtility.UrlEncode(Request.RawUrl);
             SwitchUrl = url;
-        }
+            
+
+        }*/
     }
 }

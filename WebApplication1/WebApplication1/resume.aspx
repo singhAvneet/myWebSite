@@ -14,22 +14,13 @@
           </button>
           <a href="#" class="navbar-brand"></a>
         </div>
-        <div class="navbar-collapse collapse" id="navbar">
-          <ul class="nav navbar-nav">
-            <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
-            <li><a href="projects.html"><i class="fa fa-code"></i> Projects</a></li>
-            <li><a href="github.html"><i class="fa fa-github"></i> GitHub</a></li>
-            <li><a href="resume.html"><i class="fa fa-list-alt"></i> Resume</a></li>
-            <li><a href="contact.html"><i class="fa fa-map-marker"></i> Contact Me</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
+      
       </div>
     </nav>
     <!-- ******HEADER****** --> 
   <div class="sections-wrapper">
         <div class="">
             
-                
                 <section class="projects section">
                     <div class="section-inner resume">
                         <div class="content">
@@ -40,25 +31,38 @@
                             <li>
                          
                                 <div class="timelineUnit">
-                                    <h4>Web Developer<span class="timelineDate">2012 - 2014</span></h4>
-                                    <h5><a href="http://www.ramanexporters.com" target="_blank" title="Web Developer Job at Raman Exporters">Raman Exporters, Inc </a></h5>
+                                    <h4>Junior IT System Analyst<span class="timelineDate">Jan 2015-Aug 2015</span></h4>
+                                    <h5><a href="http://www.mcss.gov.on.ca/en/mcss/" target="_blank" title="JR. IT System Analyst at MCSS, Ontario">Ontario Ministry (MCSS) </a></h5>
                                     <p>
                                         <p>
-                                            Started as a part-time web developer and then after graduation I worked as a full time web developer.</p>
-                                           <p> Duties:
+                                            I worked for Ontario Ministry in Ministry of Comunnity Social Service as a Coop.</p>
+                                         <p>
+                                            Experienced QA in a social service software environment,  including designing automated test scripts. </p>
+                                       
+                                          <p> Duties:
                                             <ul>
                                                 <li>
-                                                    <p>- Developed the webApp using CodeIgnier PHP Framework.</p>
+                                                    <p>- Determined test criteria and standards from requirement documents; wrote test cycle plans, test cases, and test scripts.</p>
                                                 </li>
                                                 <li>
-                                                    <p>- Maintaing the website.</p>
+                                                    <p>- Develops and maintains the Test Cases based on the Test Scenarios and specifications provided by the Business Analysts using HP QC tool.</p>
                                                 </li>
                                                 <li>
-                                                    <p>- Uploading the produts to the website.</p>
+                                                    <p>- Collaborates with other areas with other stakeholders to identify and improve testing tools and approaches
+                                                        Prepare Test Materials
+                                                    </p>
                                                 </li>
-                                                 <li>
-                                                    <p>- Built and develop the other major projects.</p>
-                                                </li>
+                                                <li><p>- Manages version and version control of all Test Cases</p></li>
+                                                <li><p>- Conducts system testing to ensure all UI elements, fields, dropdown lists, etc., function as designed. </p></li>
+                                                <li><p>- Performs regression testing to ensure that upgrades/modifications/changes from the last major release and all subsequent service packs do not have a negative impact
+                                                    </p></li>
+                                                <li><p>- Creates automated test scripts using Automated tools</p></li>
+                                                <li><p>- Maintains test environment by obtaining revised business rules and requirements and amending test plans and scripts.</p></li>     
+                                            <li><p>- Assists in defect investigation and escalation</p></li>
+                                                <li><p>- Raises quality issues to protect the production environment</p></li>
+                                                <li><p>- Conducts Automation of Regression Test set as required for the application</p></li>
+                                                <li><p>- Use QA software tools for defect management, regression, performance or automation testing.</p></li>
+                                                <li><p>- Participate in release meetings for maintenance and development projects ensuring all platform requirements are met.</p></li>
                                             </ul>
                                            </p>
 
@@ -68,18 +72,18 @@
                             <li>
                      
                                 <div class="timelineUnit">
-                                    <h4>Web Developer<span class="timelineDate">2012</span></h4>
-                                    <h5><a href="http://iws.in/" target="_blank" title="Web Developer at Impact Solutions"> Impact Solutions </a></h5>
+                                    <h4>Senior Executive<span class="timelineDate">2010 - 2014</span></h4>
+                                    <h5><a href="http://www.viomnetworks.com/" target="_blank" title="Viom Networks Limited"> Viom Networks Limited </a></h5>
                                     <p>
                                        <p>
                                             I worked at Impact Solutions as a Intern. Here i learnt various web techniques</p>
                                            <p> Duties:
                                             <ul>
                                                 <li>
-                                                    <p>- Developed the job portal project.</p>
+                                                    <p>- Maintained mobile network in Delhi & Mumbai International Airport.</p>
                                                 </li>
                                                  <li>
-                                                    <p>- Maintain the other projects.</p>
+                                                    <p>- Performed regular audits on power/fuel consumption on tower site to identity the optimization of OPEX/CAPEX cost,  escalated issues to the management appropriately.</p>
                                                 </li>
                                             </ul>
                                            </p> 
@@ -102,8 +106,8 @@
                             </li>
                             <li>             
                                 <div class="timelineUnit">
-                                    <h4>Bachelor of Information Technology<span class="timelineDate">2009 - 2013</span></h4>
-                                    <h5><a href="https://www.ptu.ac.in/" target="_blank" title="Punjab Technical University"> Punjab Technical University</a></h5>
+                                    <h4>Bachelor of Engineering<span class="timelineDate">2005 - 2009</span></h4>
+                                    <h5><a href="https://www.ptu.ac.in/" target="_blank" title="Rajiv Gandhi Technical University"> Rajiv Gandhi Technical University</a></h5>
                                     <p></p></div>
                             </li>
                             <div class="clear"></div>

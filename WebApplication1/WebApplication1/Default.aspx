@@ -99,7 +99,7 @@
                         <div class="content">    
                                                
                             <div class="item row">
-                                <a class="col-md-4 col-sm-4 col-xs-12" href="http://c.indianfort.co.nz/" target="_blank">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="http://c.indianfort1.co.nz/" target="_blank">
                                 <img class="img-responsive project-image" src="assets/images/projects/project-featured.png" alt="project name" />
                                 </a>
                                 <div class="desc col-md-8 col-sm-8 col-xs-12">

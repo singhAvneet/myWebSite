@@ -73,7 +73,7 @@
                         <li><a href="Default.aspx" ><i class="fa fa-home"></i> Home</a></li>
                         <li><a ><i class="fa fa-code"></i> Projects</a></li>
                         <li><a ><i class="fa fa-github"></i> GitHub</a></li>
-                        <li><a><i class="fa fa-list-alt"></i> Resume</a></li>
+                        <li><a href="resume.aspx"><i class="fa fa-list-alt"></i> Resume</a></li>
                         <li><a href="Contact.aspx"><i class="fa fa-map-marker"></i> Contact Me</a></li>
                       </ul>
         </div><!--/.nav-collapse -->
