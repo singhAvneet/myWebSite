@@ -49,7 +49,7 @@
                 </div>                     
     </header><!--//header-->
     
-    <!-- ******NAVBAR****** --> 
+    <!-- ******NAVBAR******  -->
      <nav class="navbar navbar-default">
       <div class="">
         <div class="navbar-header">
@@ -61,15 +61,9 @@
           </button>
           <a href="#" class="navbar-brand"></a>
         </div>
-        <div class="navbar-collapse collapse" id="navbar">
-          <ul class="nav navbar-nav">
-            <li><a ><i class="fa fa-home"></i> Home</a></li>
-            <li><a i class="fa fa-code"></i> Projects</a></li>
-            <li><a ><i class="fa fa-github"></i> GitHub</a></li>
-            <li><a ><i class="fa fa-list-alt"></i> Resume</a></li>
-            <li><a ><i class="fa fa-map-marker"></i> Contact Me</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
+        
+
+       
       </div>
     </nav>
     
@@ -82,12 +76,13 @@
                             <h2><i class="fa fa-user"></i> Personal Profile</h2>
                         </div>
                         <div class="content">
-                          <p> I am Avneet Singh, an energetic, self-motivated and 
-                              technically sophisticated web developer with more than two years of experience.</p>
-                             <p> Experienced with all stages of the development cycle for dynamic web projects, well-versed in numerous programming languages including PHP, C, C#, ASP.NET and Android.  
+                          <p> I am Avneet Singh, Good Understanding of variety of programming languages, new technologies, methodologies, business, system and testing tools.
+                                </p>
+                             <p>Two years experienced in developing applications, prioritize task and manage workloads.  
                              </p> 
- <p>I would embrace the chance to excel in a position that futher expands my technical skills in programming sector.</p>
-                        </div><!--//content-->
+                                <p>I am detail oriented and thoroughly enjoy to wear many hats; working in an environment where I can learn real complex software application and enhance it by efficient design, develop secure code, test/debug and add new feature application with database schema on various platform.</p>
+                        
+                             </div><!--//content-->
                     </div><!--//section-inner-->                 
                 </section><!--//section-->
     

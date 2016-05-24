@@ -100,8 +100,8 @@ Thanks for contacting us, we will get back to you shortly.</div>
                                             <li>Skype : <span>avneet_kochhar0173</span> </li>
                                         </ul>
                                         <div class="social-icons">
-                                            <a href="https://www.facebook.com/JattSaabOnline" title="Gursharnbir Singh - Facebook" target="_blank"><i class="fa fa-facebook"></i> </a>
-                                            <a href="https://github.com/singhAvneet" title="Gursharnbir Singh - GitHub" target="_blank"><i class="fa fa-github"></i> </a>
+                                            <a  title="Avneet Singh - Facebook" target="_blank"><i class="fa fa-facebook"></i> </a>
+                                            <a href="https://github.com/singhAvneet" title="Avneet Singh - GitHub" target="_blank"><i class="fa fa-github"></i> </a>
                                             <a href="https://ca.linkedin.com/in/avneet-singh-a2a700a1" title="Avneet Singh - Linkedin" target="_blank"><i class="fa fa-linkedin"></i> </a>
                                             <a  title="Avneet Singh - GooglePlus" target="_blank"><i class="fa fa-google-plus"></i> </a>
                                         </div>

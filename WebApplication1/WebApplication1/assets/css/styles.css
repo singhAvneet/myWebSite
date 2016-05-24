@@ -108,6 +108,7 @@ iframe {
     -webkit-overflow-scrolling:touch;
 }
 */
+
 .navbar .navbar-nav {
     display: inline-block;
     float:none;
@@ -116,6 +117,7 @@ iframe {
 .navbar .navbar-collapse {
     text-align: center;
 }
+
 /* ======= Header ======= */
 .header {
   background: #f5f5f5 url("../images/pattern-1.png") repeat scroll 0 0;
@@ -338,6 +340,7 @@ ol, ul {
 .navbar-default {
     box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
 }
+
 .content {
     padding: 30px;
 }
@@ -1017,3 +1020,44 @@ ul.contact-info-list li span {
       margin-top: 40px;
   }
  }
+/*=================================================================*/
+
+
+li a, .dropbtn {
+    display: inline-block;
+    color: beige;
+    text-align: center;
+    padding: 2px 0px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #778492;
+}
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index:1;
+}
+
+.dropdown-content a {
+    color: beige;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+/*.dropdown-content a:hover {background-color: #f1f1f1}*/
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+

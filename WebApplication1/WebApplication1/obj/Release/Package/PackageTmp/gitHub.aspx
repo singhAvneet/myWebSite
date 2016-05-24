@@ -37,7 +37,7 @@
                         <!-- Contact Form  -->   
                         <div class="container-fluid">
 
-    <form id="contact_form" method="post" action=" " class=" form-horizontal">
+    <form id="contact_form" method="post" action="_" class=" form-horizontal">
 <fieldset>
 
 <!-- Form Name -->
