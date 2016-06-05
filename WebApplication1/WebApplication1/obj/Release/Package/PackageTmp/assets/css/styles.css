@@ -568,6 +568,12 @@ ul.skill-list {
 .info ul {
   margin-bottom: 0;
 }
+.row {
+     margin-right: -15px; 
+     margin-left: -15px; 
+   
+   
+}
 .info li {
   margin-bottom: 15px;
 }
@@ -1025,7 +1031,7 @@ ul.contact-info-list li span {
 
 li a, .dropbtn {
     display: inline-block;
-    color: beige;
+    color: rebeccapurple;
     text-align: center;
     padding: 2px 0px;
     text-decoration: none;

@@ -15,15 +15,7 @@
           </button>
           <a href="#" class="navbar-brand"></a>
         </div>
-        <div class="navbar-collapse collapse" id="navbar">
-          <ul class="nav navbar-nav">
-            <li><a href="index.html" title="Home"><i class="fa fa-home"></i> Home</a></li>
-            <li><a href="projects.html" title="Projects done by Gursharnbir Singh"><i class="fa fa-code"></i> Projects</a></li>
-            <li><a href="github.html" title="Github Activity"><i class="fa fa-github"></i> GitHub</a></li>
-            <li><a href="resume.html" title="Gursharnbir Singh - Resume"><i class="fa fa-list-alt"></i> Resume</a></li>
-            <li><a href="contact.html" title="Be in touch with me"><i class="fa fa-map-marker"></i> Contact Me</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
+     
       </div>
     </nav>
     <!-- ******HEADER****** --> 
@@ -35,7 +27,7 @@
        <section class="latest section">
                     <div class="section-inner resume">
                         <div class="content">    
-                                     <h1 class="center">Projects by Gursharnbir Singh</h1>
+                                     <h1 class="center">Projects by Avneet Singh</h1>
                                      <hr />          
                             <div class="item featured text-center">
                                 <h3 class="title"><a href="http://c.indianfort.co.nz/" target="_blank">WebApp : Study @ Centennial</a></h3>

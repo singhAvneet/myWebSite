@@ -46,7 +46,8 @@
                         </div>
                    
                 </div>
-                </div>                     
+                </div>  <!--//header-->    
+                </div>  <!--//class row-->             
     </header><!--//header-->
     
     <!-- ******NAVBAR******  -->

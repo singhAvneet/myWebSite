@@ -77,6 +77,7 @@
                                                 <li><p>- Raised/monitored Purchase Requests, Purchase Orders for all telecom vendors in the system using SAP</p></li>
                                                 <li><p>- In person interaction with stakeholders for fulfilling requirement and business operations.</p></li>
                                                 <li><p>- Took ownership to conduct daily review meetings with management for ongoing project updates.</p></li>
+                                                <li><p>- Self-managed work activities to meet plans, monitor progress, and report status.</p></li>
                                                 <li><p>- Involved in the implementation of SAP-ERP as a end user under the project named PRISM.</p></li>
                                                 <li><p>- Monitored to ensure adherence to contracted service level agreements.</p></li>
                                                 <li><p>- Researched and correlated data from relevant sources to formulate findings and analytical reports.</p></li>

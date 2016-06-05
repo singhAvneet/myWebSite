@@ -109,17 +109,20 @@
   <ItemGroup>
     <Content Include="assets\css\bootstrap.min.css" />
     <Content Include="assets\css\fade.css" />
+    <Content Include="assets\css\project.css" />
     <Content Include="assets\css\styles.css" />
-    <Content Include="assets\css\styles2.css" />
     <Content Include="assets\images\bg.png" />
     <Content Include="assets\images\github-chart.png" />
+    <Content Include="assets\images\group.jpg" />
     <Content Include="assets\images\header.png" />
+    <Content Include="assets\images\ops.jpg" />
     <Content Include="assets\images\pattern-1.png" />
     <Content Include="assets\images\profile.png" />
     <Content Include="assets\images\projects\adminpanel.png" />
     <Content Include="assets\images\projects\project-featured.png" />
     <Content Include="assets\images\projects\s%40c.png" />
     <Content Include="assets\images\projects\santgarh.png" />
+    <Content Include="assets\images\setas.jpg" />
     <Content Include="assets\images\split.png" />
     <Content Include="assets\js\classie.js" />
     <Content Include="assets\js\contact.js" />
@@ -128,6 +131,7 @@
     <Content Include="assets\js\jquery.2.js" />
     <Content Include="assets\js\jquery.ease.js" />
     <Content Include="assets\js\main.js" />
+    <Content Include="assets\js\project.js" />
     <Content Include="assets\plugins\boostrap\css\bootstrap-theme.css" />
     <Content Include="assets\plugins\boostrap\css\bootstrap-theme.min.css" />
     <Content Include="assets\plugins\boostrap\css\bootstrap.css" />
@@ -253,6 +257,7 @@
     <Content Include="assets\plugins\jquery-rss\lib\Icon_" />
     <Content Include="assets\plugins\jquery-rss\spec\Icon_" />
     <Content Include="assets\plugins\jquery-rss\src\Icon_" />
+    <Content Include="Project.aspx" />
     <None Include="Properties\PublishProfiles\avneetsingh.ca - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\ca.avneetsingh.ca - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
@@ -361,6 +366,13 @@
     </Compile>
     <Compile Include="resume.aspx.designer.cs">
       <DependentUpon>resume.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Project.aspx.cs">
+      <DependentUpon>Project.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Project.aspx.designer.cs">
+      <DependentUpon>Project.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
