@@ -1,29 +1,43 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Project.aspx.cs" Inherits="WebApplication1.WebForm3" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
      
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, minimum-scale=1">
     <link href="assets/css/project.css" rel="stylesheet" />
 
-
-
  <div class="container main"> 
-            <header class="header">
-                 <div class="row">
-                      <div class="col-md-8 custom-header">                           
-                          <aside>
-                            <div  style="max-width:79%">
-                                <div class="content">
-                                    <div class="item row">
-                                      <img class="mySlides fade" src="assets/images/ops.jpg" style="width:100%">                                        
-                                      <img class="mySlides fade" src="assets/images/setas.jpg" style="width:100%">
-                                      <img class="mySlides fade" src="assets/images/group.jpg" style="width:100%">
-                                    </div> 
-                                 </div>
-                            </div>
-                              </aside>
-                       </div>
-                    </div>  
-                </header>
+     <header class="header">
+          <div class="row">            
+                 <section class="col-7 col-m-7 side ">
+                                      <img class="mySlides  fade" src="assets/images/ops.jpg" >                                        
+                                      <img class="mySlides  fade" src="assets/images/setas.jpg" >
+                                      <img class="mySlides  fade" src="assets/images/group.jpg">
+               
+                       </section>                 
+          <!--   <div class="col-1 col-m-1 custom-header">
+                             <img src="assets/images/split.png" >
+                         <h4 > QA/System Analyst/Software Support/Developer</h4>
+                  </div>                          -->          
+          
+            <div class="col-5 col-m-5 page" >
+                <div class="about-info" >
+                            		<h2 class="section-title">Info</h2>
+                   
+                                    <ul class="info-list" >
+                                    	<li><i class="fa fa-user"></i> Full Name : <span>Avneet Singh</span> </li>
+                                        <li><i class="fa fa-envelope"></i> Email : <span>avneet_kochhar0173@hotmail.com</span> </li>
+                                        <li><i class="fa fa-skype"></i> Skype : <span>avneet_kochhar0173</span> </li>
+                                    </ul>
+                                    <div class="social-icons">
+                            <a  title="Avneet Singh - Facebook" target="_blank"><i class="fa fa-facebook"></i> </a>
+                             <a href="https://github.com/singhAvneet" title="Avneet Singh - GitHub" target="_blank"><i class="fa fa-github"></i> </a>
+                            <a href="https://ca.linkedin.com/in/avneet-singh-a2a700a1" title="Avneet Singh - Linkedin" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                            <a  title="Avneet Singh - GooglePlus" target="_blank"><i class="fa fa-google-plus"></i> </a>
+                        </div>
+                   
+                </div>
+                </div>  <!--//header-->    
+                </div>  <!--//class row-->    
+             </header>               
      <!-- ******NAVBAR******  -->
      <nav class="navbar navbar-default">
       <div class="">
@@ -41,8 +55,8 @@
        
       </div>
     </nav>
-</div>
-
+</div><!--container-->
+  
       <!-- Javascript -->          
     <script type="text/javascript" src="assets/plugins/jquery-1.11.3.min.js"></script>
     <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>    
@@ -51,5 +65,14 @@
     <!-- custom js -->
 
     <script type="text/javascript" src="assets/js/main.js"></script> 
+
+       <script src = "http://code.jquery.com/jquery-2.1.4.min.js"></script>
+      <script src = "jQuery-plugin-progressbar.js"></script>
+
+
+
+
+
+
        
 </asp:Content>

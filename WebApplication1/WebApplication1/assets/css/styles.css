@@ -772,14 +772,15 @@ ul.contact-info-list li span {
     margin-bottom: 15px;
   }
 }
-/* Small devices (tablets, 768px and up) */
+/* Small devices (tablets, 768px and up) 538px*/
 /* Medium devices (desktops, 992px and up) */
 /* Large devices (large desktops, 1200px and up) */
-/* Ex-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1400px) {
+/* Ex-Large devices (large desktops, 1200px and up) 1400px*/
+@media (max-width: 538px) {
   .container {
-    width: 1360px;
+    width: 100%;/*//1360px*/
   }
+  
   .custom-header {
       background: transparent url("../images/split.png") no-repeat scroll right top;
   }
@@ -1018,6 +1019,7 @@ ul.contact-info-list li span {
 @media (min-width:961px) { 
     .custom-header {
       background: transparent url("../images/split.png") no-repeat scroll right top;
+     
   }
   .info-list {
       padding-left: 40px!important;
