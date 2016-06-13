@@ -261,6 +261,7 @@ ol, ul {
     color: #999;
     font-size: 13px;
     line-height: 18px;
+    width: 100px;
 }
 .timeline li .timelineUnit .timelineDate {
     color: #2574a9;

@@ -78,10 +78,10 @@
                         </div>
                         <div class="content">
                           <p> I am Avneet Singh, Good Understanding of variety of programming languages, new technologies, methodologies, business, system and testing tools.
-                                </p>
+                           </p>
                              <p>Two years experienced in developing applications, prioritize task and manage workloads.  
                              </p> 
-                                <p>I am detail oriented and thoroughly enjoy to wear many hats; working in an environment where I can learn real complex software application and enhance it by efficient design, develop secure code, test/debug and add new feature application with database schema on various platform.</p>
+                             <p>I am detail oriented and thoroughly enjoy to wear many hats; working in an environment where I can learn real complex software application and enhance it by efficient design, develop secure code, test/debug and add new feature application with database schema on various platform.</p>
                         
                              </div><!--//content-->
                     </div><!--//section-inner-->                 

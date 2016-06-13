@@ -32,3 +32,4 @@ C:\Users\Owner\Documents\Visual Studio 2015\WebProfile\WebApplication1\WebApplic
 C:\Users\Owner\Documents\Visual Studio 2015\WebProfile\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\Owner\Documents\Visual Studio 2015\WebProfile\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\Owner\Documents\Visual Studio 2015\WebProfile\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\WebProfile\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache

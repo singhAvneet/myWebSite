@@ -83,9 +83,9 @@
                         <li><a href="Project.aspx"><i  class="fa fa-code"></i> Projects</a></li>
                         <li><a href="gitHub.aspx" ><i class="fa fa-github"></i> GitHub</a></li>
                         <li><a href="resume.aspx"><i class="fa fa-list-alt"></i> Resume</a></li>                        
-                          <li class="dropdown"><a ><i class="dropbtn"></i> Tutorial</a>
-                              <div class="dropdown-content">
-                                  <a href="#">Electronics</a>
+                          <li class="dropdown " ><a class="closebtn" "><i class="dropbtn"></i> Tutorial</a>
+                              <div class="dropdown-content ">
+                                  <a href="#" >Electronics</a>
                                   <a href="#">Android</a>
                                   <a href="#">AngularJS</a>
                                   <a href="#">Telecommunication</a>
@@ -102,7 +102,7 @@
                   
             </asp:ContentPlaceHolder>
             <hr />
-            
+           
             <footer class="footer">
         <div class="container text-center">
              <small class="copyright">Avneet Singh</small>
@@ -111,7 +111,8 @@
         </div>
 
     </form>
-    <script src="assets/js/main.js"></script>
-      <script src="assets/js/project.js"></script> 
+    <script type="text/javascript" src="assets/js/main.js"></script>
+    <script type="text/javascript" src="assets/js/project.js"></script> 
+    <script type="text/javascript" src="assets/js/resume.js"></script>
 </body>
 </html>

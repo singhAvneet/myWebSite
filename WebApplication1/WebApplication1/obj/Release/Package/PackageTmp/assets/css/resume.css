@@ -1,0 +1,17 @@
+﻿#panel,#panel2, #flip,#flip2 {
+    padding: 5px;
+    text-align: left;
+    background-color: #eee;
+    border: solid 1px #c3c3c3;
+}
+#flip:after,#flip2:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+}
+
+#flip:hover,#flip2:hover {
+    background-color: #ddd;
+}

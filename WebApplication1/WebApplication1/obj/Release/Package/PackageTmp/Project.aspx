@@ -57,22 +57,13 @@
     </nav>
 </div><!--container-->
   
-      <!-- Javascript -->          
+   
+        <!-- Javascript -->  
     <script type="text/javascript" src="assets/plugins/jquery-1.11.3.min.js"></script>
-    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>    
     <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.4.5/js/bootstrapvalidator.min.js"></script>         
+
     <!-- github activity plugin -->
-    <!-- custom js -->
-
-    <script type="text/javascript" src="assets/js/main.js"></script> 
-
-       <script src = "http://code.jquery.com/jquery-2.1.4.min.js"></script>
-      <script src = "jQuery-plugin-progressbar.js"></script>
-
-
-
-
-
-
-       
+  
 </asp:Content>
