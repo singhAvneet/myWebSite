@@ -94,13 +94,13 @@
                                     
                                        <p>
                                             I started my career by delivering world class service quickly and proactively by understanding clients needs, educating them to the best as possible, building a positive relationship and showing enthusiasm/friendliness.</p>
-                                           
+                                    <div id="flip3">Responsibilities:</div>        
+                                    <div id="panel3">
                                             <ul>
-                                                <li><p>- Provided first level technical support to clients from U.K over the phone and troubleshoot issues associated with hardware during the installation of router/modem and escalated ADSL connection issues appropriately to second level technical support.</p></li>
-                                                <li><p>- Interacted with customers for new Internet plans and troubleshoot software application.</p></li>
-                                             
+                                                <li><p id="nummm1"></p></li>
+                                                <li><p id="nummm2"></p></li>
                                             </ul> 
-                                   
+                                          </div>
                                 </div>
                             </li>
                             <div class="clear"></div>
