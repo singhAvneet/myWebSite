@@ -263,6 +263,7 @@
     <None Include="Properties\PublishProfiles\avneetsingh.ca - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\ca.avneetsingh.ca - Web Deploy.pubxml" />
     <Content Include="JSON\resume.json" />
+    <None Include="Properties\PublishProfiles\caa.avneetsingh.ca.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />

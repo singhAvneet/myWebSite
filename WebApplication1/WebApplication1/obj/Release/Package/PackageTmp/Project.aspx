@@ -55,6 +55,47 @@
        
       </div>
     </nav>
+
+
+  
+        <div class="row">
+            <div class="col-7 col-m-7 side">
+                <section class="about section">
+                    <div class="section-inner">
+                        <div class="page-title">
+                            <h2><i class="fa fa-user"></i> Personal Profile</h2>
+                        </div>
+                        <div class="content">
+                         <ul class="tab">
+                              <li><a  class="tablinks" onclick="openCity(event, 'London')">London</a></li>
+                              <li><a  class="tablinks" onclick="openCity(event, 'Paris')">Paris</a></li>
+                              <li><a  class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</a></li>
+                         </ul>
+                            <div id="London" class="tabcontent">
+                              <h3>London</h3>
+                              <p>London is the capital city of England.</p>
+                            </div>
+
+                            <div id="Paris" class="tabcontent">
+                              <h3>Paris</h3>
+                              <p>Paris is the capital of </p>
+                            </div>
+
+                            <div id="Tokyo" class="tabcontent">
+                              <h3>Tokyo</h3>
+                              <p>Tokyo is the capital of Japan.</p>
+                            </div>
+
+
+                             </div><!--//content-->
+                    </div><!--//section-inner-->                 
+                </section><!--//section-->
+
+                </div>
+            </div>
+
+
+
 </div><!--container-->
   
    
