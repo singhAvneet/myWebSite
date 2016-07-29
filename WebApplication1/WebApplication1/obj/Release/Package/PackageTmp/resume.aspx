@@ -206,12 +206,10 @@
             <!--//secondary-->    
         </div>
    </div> 
-   
-        <!-- Javascript -->  
-     <script type="text/javascript" src="Scripts/jquery-3.0.0.js"></script>
-    <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>
-    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.4.5/js/bootstrapvalidator.min.js"></script>         
 
+
+    <!-- Javascript --> 
+      <script type="text/javascript" src="assets/js/resume.js"></script>
+       
       
 </asp:Content>

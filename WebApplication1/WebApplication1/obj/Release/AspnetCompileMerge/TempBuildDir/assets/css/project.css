@@ -69,10 +69,10 @@ body {font-family: Verdana,sans-serif;margin:0}
   display: inline-block;
   transition: background-color 0.6s ease;
 }
-
+/*
 .active, .dot:hover {
   background-color: #717171;
-}
+}*/
 
 /* Fading animation */
 .fade {
@@ -144,21 +144,23 @@ body {font-family: Verdana,sans-serif;margin:0}
     .col-12 {        width: 100%;    }
 }
 .side li {
-    padding: 8px;
-    margin-bottom: 7px;
-    background-color :#33b5e5;
+       margin-bottom: 7px;   
     color: #ffffff;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    /* padding: 8px;
+    background-color :#33b5e5;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);*/
+  
 }
 
 /*-------------------------------------------------project description-----------------------------------------------------------*/
 
 ul.tab {
-    list-style-type: none;
-    margin-right: 80%;
-    padding: 10;
+  /*  list-style-type: none;
+     padding: 10%;
     overflow: hidden;
-    border: 10px solid #ccc;
+     border: 1px solid #ccc;
+ */
+    margin-right: 80%;     
     background-color: #f1f1f1;
 }
 
@@ -170,7 +172,7 @@ ul.tab li a {
     display: inline-block;
     color: black;
     text-align: right;
-    padding: 14px 16px;
+    padding: 14px 0px;
     text-decoration: none;
     transition: 0.3s;
     font-size: 17px;
@@ -182,28 +184,54 @@ background-color: #ddd;
 
 }
 
-/* Create an active/current tablink class */
+/* Create an active/current tablink class 
 ul.tab li a:focus, .active {
     background-color: #ccc;
 
-}
+}*/
 
 /* Style the tab content */
 .tabcontent {
     display: none;
-    margin-top: -180px;
-margin-left:30%;
-    padding: 6px 1px;
-    border: 10px solid #ccc;
+    margin-top: -32%;
+    margin-left:16%;
+    padding: 3% 5%;   
     border-top: none;
+    -webkit-animation: fadeEffect 1s;
+    animation: fadeEffect 1s;
 }
 
  /*-------------------------------------------------project description-----------------------------------------------------------*/
 
+ .icon-bar {
+    width: 18%;
+    text-align: center;
+    background-color: #555;
+}
 
+.icon-bar a {
+    padding: 16px;
+    display: block;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+}
 
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+    
  
 /*-------------------------------------------------project description-----------------------------------------------------------*/
+.panel {
+    text-align: left;
+    background-color: #eee;
+    border: solid 1px #c3c3c3;
+}
 
+.padding {
+padding:2%
+}
 
  /*-------------------------------------------------project description-----------------------------------------------------------*/

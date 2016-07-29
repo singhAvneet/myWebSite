@@ -1,4 +1,16 @@
-﻿var myIndex = 0;
+﻿/*---------------------------------Projects Description---------------------------------------------------------------*/
+
+/*---------------------------------Projects Description---------------------------------------------------------------*/
+
+
+
+
+
+
+
+/*---------------------------------photos slide show---------------------------------------------------------------*/
+
+var myIndex = 0;
 carousel();
 
 function carousel() {
@@ -12,7 +24,11 @@ function carousel() {
     x[myIndex - 1].style.display = "block";
     setTimeout(carousel, 5000); // Change image every 2 seconds
 }
+/*---------------------------------photos slide show---------------------------------------------------------------*/
 
+
+
+/*---------------------------------List of Projects---------------------------------------------------------------*/
 function openCity(evt, cityName) {
     var i, tabcontent, tablinks;
     tabcontent = document.getElementsByClassName("tabcontent");
@@ -26,6 +42,10 @@ function openCity(evt, cityName) {
     document.getElementById(cityName).style.display = "block";
     evt.currentTarget.className += " active";
 }
+/*---------------------------------List of Projects---------------------------------------------------------------*/
 
 
 
+/*---------------------------------Projects Description---------------------------------------------------------------*/
+
+/*---------------------------------Projects Description---------------------------------------------------------------*/

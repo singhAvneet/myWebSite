@@ -120,6 +120,9 @@
     <Content Include="assets\images\pattern-1.png" />
     <Content Include="assets\images\profile.png" />
     <Content Include="assets\images\projects\adminpanel.png" />
+    <Content Include="assets\images\projects\eCare1.PNG" />
+    <Content Include="assets\images\projects\eCare2.PNG" />
+    <Content Include="assets\images\projects\naanStop.PNG" />
     <Content Include="assets\images\projects\project-featured.png" />
     <Content Include="assets\images\projects\s%40c.png" />
     <Content Include="assets\images\projects\santgarh.png" />
@@ -134,6 +137,7 @@
     <Content Include="assets\js\main.js" />
     <Content Include="assets\js\project.js" />
     <Content Include="assets\js\resume.js" />
+    <Content Include="assets\js\projectQuery.js" />
     <Content Include="assets\plugins\boostrap\css\bootstrap-theme.css" />
     <Content Include="assets\plugins\boostrap\css\bootstrap-theme.min.css" />
     <Content Include="assets\plugins\boostrap\css\bootstrap.css" />
@@ -260,6 +264,7 @@
     <Content Include="fonts\jquery-rss\spec\Icon_" />
     <Content Include="fonts\jquery-rss\src\Icon_" />
     <Content Include="Project.aspx" />
+    <Content Include="JSON\project.json" />
     <None Include="Properties\PublishProfiles\avneetsingh.ca - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\ca.avneetsingh.ca - Web Deploy.pubxml" />
     <Content Include="JSON\resume.json" />

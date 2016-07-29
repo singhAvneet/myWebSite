@@ -119,7 +119,12 @@ Thanks for contacting us, we will get back to you shortly.</div>
    </div> 
     <!-- ******FOOTER****** --> 
    
- 
+<?php
+echo "Today is " . date("Y/m/d") . "<br>";
+echo "Today is " . date("Y.m.d") . "<br>";
+echo "Today is " . date("Y-m-d") . "<br>";
+echo "Today is " . date("l");
+?> 
     <!-- Javascript -->  
     <script type="text/javascript" src="assets/plugins/jquery-1.11.3.min.js"></script>
     <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>
